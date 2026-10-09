@@ -20,8 +20,8 @@
 class Laksh:
     def __init__(self):
         self.role = "First-year CSE student"
-        self.language = "Python"
-        self.learning = ["Data analysis", "Open source", "Algorithms"]
+        self.language = "c#"
+        self.learning = ["Game Devlopment", "Open source", "Algorithms"]
         self.building = "Small projects, then bigger ones"
         self.fuel = "Coffee and curiosity"
 
@@ -34,11 +34,11 @@ print(me.say_hi())
 
 ## 🔭 What I'm Up To
 
-- 🔭 Currently working on: *your current project*
-- 🌱 Learning: Python, data analysis, Git and GitHub
-- 🤝 Looking to collaborate on: *beginner-friendly open source*
-- 💬 Ask me about: *your favorite topic*
-- 📫 Reach me: *your email here*
+- 🔭 Currently working on: VasHexad
+- 🌱 Learning: Python, Game Dev, Git and GitHub
+- 🤝 Looking to collaborate on: AnyPS5
+- 💬 Ask me about: Python 
+- 📫 Reach me: laksh.rpatil@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -66,8 +66,8 @@ print(me.say_hi())
 <details>
 <summary>🎯 Fun facts (click to open)</summary>
 
-- ⚡ Add a fun fact here
-- 🎮 Add another one here
+- ⚡ Learning Unity and Unreal Engine
+- 🎮 Souls Gamer
 
 </details>
 
